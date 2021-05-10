@@ -1,4 +1,4 @@
-apt install zsh
+apt install -y zsh
 mkdir tmp
 tar xf pkgs.tar.xz -C tmp
 cd tmp
